@@ -1,0 +1,10 @@
+F:\projects\akka\unit1\bin\Debug\WinTail.exe.config
+F:\projects\akka\unit1\bin\Debug\WinTail.exe
+F:\projects\akka\unit1\bin\Debug\WinTail.pdb
+F:\projects\akka\unit1\bin\Debug\Akka.dll
+F:\projects\akka\unit1\bin\Debug\Newtonsoft.Json.dll
+F:\projects\akka\unit1\bin\Debug\Akka.xml
+F:\projects\akka\unit1\bin\Debug\Newtonsoft.Json.xml
+F:\projects\akka\unit1\obj\Debug\WinTail.csprojResolveAssemblyReference.cache
+F:\projects\akka\unit1\obj\Debug\WinTail.exe
+F:\projects\akka\unit1\obj\Debug\WinTail.pdb
